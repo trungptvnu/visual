@@ -19,7 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="object.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Vector.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{06D26391-0D02-46B8-849F-58528F1DAD54}</ProjectGuid>
