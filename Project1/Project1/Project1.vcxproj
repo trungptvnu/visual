@@ -19,9 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="HocSinh.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="object.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="Vector.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HocSinh.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{06D26391-0D02-46B8-849F-58528F1DAD54}</ProjectGuid>
