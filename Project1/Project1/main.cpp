@@ -5,7 +5,7 @@
 int main()
 {
 	HocSinh a;
-	a.nhap();
+	a.nhap(); // Tinh dong Goi
 	a.xuat();
 
 	system("pause");
